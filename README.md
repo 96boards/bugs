@@ -1,3 +1,3 @@
 # 96boards bugs
 
-96Boards has a large number of components. Please, file issues [here](https://github.com/96boards/bugs/issues).
+Bug tracking for 96Board has moved to https://bugs.96boards.org.  All currently open bugs have been moved there.
